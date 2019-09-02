@@ -170,6 +170,9 @@ a.grey,
 .layout-side-section .sidebar-menu > li > a {
   color: white !important;
 }
+.layout-side-section .overlay-sidebar {
+  background-color: #171717;
+}
 .sidebar-menu .badge,
 .badge {
   background-color: rgba(66, 66, 66, 1) !important;

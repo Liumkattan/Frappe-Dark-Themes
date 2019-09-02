@@ -21746,6 +21746,7 @@
   .copyright {
     background-color: #1a252f;
   }
-  .ql-snow {
-      color: #777;
-  }
+
+  .hero-image {
+    color: white;
+}
