@@ -267,6 +267,9 @@ a.grey,
   background-color: rgba(66, 66, 66, 1) !important;
   color: white !important;
 }
+.frappe-control pre {
+  color: white !important;
+}
 kbd {
   background-color: rgba(80, 80, 80, 1) !important;
   color: white !important;
