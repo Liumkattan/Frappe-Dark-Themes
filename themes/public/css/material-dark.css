@@ -404,6 +404,12 @@ td a:hover {
 .row-index {
   border-right: 1px solid #717171;
 }
+.search-dialog .layout-side-section .nav li a {
+  background-color: #6f6f6f;
+}
+.search-dialog input.form-control {
+  margin: 0 20px;
+}
 @media (max-width: 991px) {
   body[data-route^="Form"] .page-head .sub-heading {
     position: unset;
