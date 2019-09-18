@@ -177,9 +177,6 @@ a.grey,
 .layout-side-section .overlay-sidebar {
   background-color: #212121;
 }
-.frappe-rtl .layout-side-section .overlay-sidebar {
-  transform: translateX(400px);
-}
 .sidebar-menu .badge,
 .badge {
   background-color: rgba(66, 66, 66, 1) !important;
@@ -413,5 +410,8 @@ td a:hover {
 @media (max-width: 991px) {
   body[data-route^="Form"] .page-head .sub-heading {
     position: unset;
+  }
+  .frappe-rtl .layout-side-section .overlay-sidebar {
+    transform: translateX(400px);
   }
 }
